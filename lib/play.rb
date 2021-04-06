@@ -38,4 +38,5 @@ end
 # Define your play method below
 def play(board)
   plays = 0 
-  until plays == 9
+  until plays == 9 
+  
